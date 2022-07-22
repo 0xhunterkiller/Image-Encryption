@@ -7,8 +7,8 @@ The String and File Encryption Modules are in the <a href="/str-file">/str-file/
 
 The Plain Image was
 
-[[lena.jpeg]]
+<img src="lena.jpg">
 
 The Encrypted Image
 
-[[lena.enc.png]]
+<img src="lena.enc.png">
