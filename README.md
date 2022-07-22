@@ -1,4 +1,3 @@
 # Image-Encryption
 An Image Encryption module with DNA Sequences as intermediate. 
-
-[[/notes/final-ppt.pdf]]
+<a href=/notes/final-ppt.pdf></a>
